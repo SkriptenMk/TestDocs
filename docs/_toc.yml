@@ -3,9 +3,10 @@
 
 format: jb-book
 root: intro
-- caption: Inhalt
-  chapters:
-  - file: markdown
-  - file: notebooks
-  - file: markdown-notebooks
-  - file: muloe_umrechnungen
+parts:
+  - caption: Inhalt
+    chapters:
+    - file: markdown
+    - file: notebooks
+    - file: markdown-notebooks
+    - file: muloe_umrechnungen
