@@ -4,11 +4,11 @@
 format: jb-book
 root: intro
 parts:
-    - caption: Laufendes Semster
-      chapters:
-          - file: markdown
-          - file: notebooks
-    - caption: Vergangene Semester
-      chapters:
-          - file: markdown-notebooks
-          - file: muloe_umrechnungen
+  - caption: Laufendes Semster
+    chapters:
+        - file: markdown
+        - file: notebooks
+  - caption: Vergangene Semester
+    chapters:
+        - file: markdown-notebooks
+        - file: muloe_umrechnungen
